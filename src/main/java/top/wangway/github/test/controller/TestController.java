@@ -14,6 +14,6 @@ public class TestController {
     @RequestMapping("/")
     public String root(){
         return "Hello,This project is testProject for Jenkins and Git \n"
-                +" Now is beigin Auto Build!! xx";
+                +" Now is beigin Auto Build!! xx33";
     }
 }
